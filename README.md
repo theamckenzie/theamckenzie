@@ -17,9 +17,8 @@
 
 :white_check_mark: **Public Health & Health Education:** MPH degree focused on community health promotion and translating complex information into accessible formats
 
-:white_check_mark: **Front-End Web Development:** Learning HTML/CSS, responsive design, JavaScript
-
 :white_check_mark: **Digital Marketing & Communication:** Proficient in creating engaging, data-driven content and campaigns across various platforms
 
 :white_check_mark: **Data Analysis & Visualization:** Intermediate Excel skills, experience with data analysis and interactive visualizations
 
+:white_check_mark: **Front-End Web Development:** Learning HTML/CSS, responsive design, JavaScript
